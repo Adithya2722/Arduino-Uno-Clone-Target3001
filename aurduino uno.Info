@@ -1,0 +1,28 @@
+CAM output for current project aurduino uno.T3001
+Output date 12. Feb 2026, 16:07h
+Project created using TARGET 32.9.0.14 design station
+Output created using TARGET 3001! V32.9.0.14
+Created with TARGET 3001! NC edition: Commercial use is illegal!
+Delivery address:
+  
+  
+  
+  GB- 
+  Tel: 
+  FAX: 
+  eMail: 
+Size of PCB: 77.47 mm x 73.66 mm
+Thickness of PCB: 1.6 mm
+Copper thickness: 35 µm
+
+Description of created files as follows:
+
+aurduino uno.Top = 16 = Kupfer oben / Copper top L1   ( *.Top )
+aurduino uno.Bot = 2 = Kupfer unten / Copper bottom L2   ( *.Bot )
+aurduino uno.Tool = drill tool list
+aurduino uno.Drill = Galvanised drills
+aurduino uno.Outline = 23 = PCB outline   ( *.Outline )
+aurduino uno.StopTop = 18 = Solder stop mask top   ( *.StopTop )
+aurduino uno.StopBot = 4 = Solder stop mask bottom   ( *.StopBot )
+aurduino uno.PosiTop = 21 = Position print top   ( *.PosiTop )
+
