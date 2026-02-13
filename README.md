@@ -1,2 +1,9 @@
-# Arduino-Uno-Clone-Target3001
-This repository features a production-ready Arduino Uno R3 implementation designed in TARGET 3001!. Centered on the ATmega328P, the layout optimizes signal integrity and modern manufacturing standards. Includes RS-274X Gerbers, a full BOM, and 3D models—serving as a high-fidelity reference for professional PCB design and prototyping.
+# Technical Specifications
+| Feature | Details |
+| :--- | :--- |
+| **Microcontroller** | ATmega328P |
+| **Input Voltage** | 7-12V (Recommended) |
+| **Operating Voltage** | 5V |
+| **Digital I/O Pins** | 14 (6 PWM outputs) |
+| **Analog Input Pins** | 6 |
+| **PCB Software** | TARGET 3001! |
